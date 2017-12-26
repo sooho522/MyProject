@@ -21,6 +21,11 @@ public class CafeTestSuit extends CafeTestSetup {
 		/*
 		 * Cafe v1.0.1 test
 		 */
+		
+		/*
+		 * [github] branch test
+		 */
+		
 		CafeTestLogin 				Login = new CafeTestLogin();
 			Login.test("tc-0001");
 		CafeMainProduct 			MainProduct = new CafeMainProduct();
