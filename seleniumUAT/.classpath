@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="config/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/selenium-java-2.53.0/selenium-2.53.0/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/selenium-java-2.53.0/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-1.2-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-1.2-api-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-1.2-api-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-api-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-api-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-core-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-core-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-core-2.6.2-tests.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-flume-ng-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-flume-ng-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-flume-ng-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-iostreams-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-iostreams-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-iostreams-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jcl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jcl-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jcl-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jmx-gui-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jmx-gui-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jmx-gui-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jul-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jul-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-jul-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-nosql-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-nosql-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-nosql-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-taglib-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-taglib-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-taglib-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-web-2.6.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-web-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/seleniumUAT_library/apache-log4j-2.6.2-bin/log4j-web-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/CSV Pack/CSV Pack/opencsv-3.2.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/poi_xls library/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/poi_xls library/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/poi_xls library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="S:/selenium_web_test/library/poi_xls library/commons-collections4-4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
