@@ -19,7 +19,7 @@ public class CafeTestSuit extends CafeTestSetup {
 		boolean result = false;	
 		String ts = null;
 		/*
-		 * 
+		 * Cafe v1.0.1 test
 		 */
 		CafeTestLogin 				Login = new CafeTestLogin();
 			Login.test("tc-0001");
